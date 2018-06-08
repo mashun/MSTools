@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.license      = "MIT"
   s.author       = { "das120429" => "978292663@qq.com" }
   s.platform     = :ios, '8.0'
-  s.source       = { :git => "https://github.com/mashun/MSTools.git", :tag => "#{s.version.to_s}" }
+  s.source       = { :git => "https://github.com/mashun/MSTools.git", :tag => '1.0.1' }
   s.source_files = 'Source/*.{h,m}'
   s.requires_arc = true
 end
