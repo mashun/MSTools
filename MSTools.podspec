@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "MSTools"
-  s.version      = "1.0.1"
+  s.version      = "1.0.2"
   s.summary      = "开发中一些比较实用的工具库"
   s.homepage     = "https://github.com/mashun/MSTools"
   s.license      = "MIT"
